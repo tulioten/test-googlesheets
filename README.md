@@ -1,4 +1,4 @@
-A simple application that updates students situations in a google spreadsheets, based in grades and skipped classes.
+A simple application that updates students situation in a google spreadsheets, based in grades and skipped classes.
 
 
 Installation:
