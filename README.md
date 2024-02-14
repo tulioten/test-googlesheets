@@ -4,16 +4,16 @@ A simple application that updates students situations in a google spreadsheets, 
 Installation:
 
     1. To use this application clone this repository:
-        ``` git clone https://github.com/tulioten/test-googlesheets ```
+        git clone https://github.com/tulioten/test-googlesheets
     
     2. Install the dependencies:
-        ``` npm install ```
+        npm install
     
     3. Open the link of the original spreadsheet:
         https://docs.google.com/spreadsheets/d/1CHxr6EQq9b30FJUTnyZkQU06FULGK1r700tc8Zi5tNU/edit#gid=0
     
     4. to run the App use:
-        ```npm run dev```
+        npm run dev
     
     5. Check the spreadsheet to see the changes.
 
@@ -31,4 +31,4 @@ Configuration:
     
     4. Create a service key and download the JSON file containing the credentials.
     
-    5. rename the file to ```credentials.json``` and place it in the ```src``` folder.
+    5. rename the file to "credentials.json" and place it in the "src" folder.
