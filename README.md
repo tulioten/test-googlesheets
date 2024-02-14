@@ -21,7 +21,7 @@ Installation:
 
 Configuration:
 
-  Before running the application, you need to configure Google Sheets API crendentials.
+  Before running this application, you need to configure Google Sheets API crendentials.
   
     1. go to Google Cloud Console in https://console.cloud.google.com
     
